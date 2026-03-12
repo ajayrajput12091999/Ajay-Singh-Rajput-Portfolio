@@ -194,7 +194,7 @@ export const DATA: PortfolioData = {
         },
         {
             platform: 'github',
-            url: 'https://github.com/nhyadav05',
+            url: 'https://github.com/ajayrajput12091999',
             label: 'GitHub'
         },
         {
